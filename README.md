@@ -26,6 +26,11 @@ qui reprend:
     - KNN Sklearn
 - la partie 3 : mise en place la solution dans l’application de test de personnalité
 
+### le rapport *.pdf :
+qui documente et explique les différentes étapes du notebook
+
+### le fichier *.jolib du meilleur modèle de k-NN
+
 ### les fichiers pythons :
 - **test.py** de base
 - **data.py** qui fusionne les fichiers *.csv
